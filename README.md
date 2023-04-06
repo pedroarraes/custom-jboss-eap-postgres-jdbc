@@ -1,4 +1,4 @@
-# How to customize  Red Hat JBoss EAP image to install Oracle JDBC Drivers
+# How to customize  Red Hat JBoss EAP image to install Postgresq JDBC Drivers
 This smart-start describes how create a a custom JBoss EAP image and install Postgresql JDBC drivers. For this tutorial we used a Red Hat Container Image, you need a Runtimes Subscription to execute, but, as a alternative you can use a Wildfly Community Image, not supported to Red Hat.
 
 ## Requeriments
